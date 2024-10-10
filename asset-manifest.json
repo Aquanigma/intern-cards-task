@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/intern-cards-task/static/css/main.2377a29a.css",
+    "main.js": "/intern-cards-task/static/js/main.8f2ec75d.js",
+    "index.html": "/intern-cards-task/index.html",
+    "static/media/heart-solid.svg": "/intern-cards-task/static/media/heart-solid.ebfa1b05859c4d8aef4885bd4966ce1f.svg",
+    "static/media/heart-solid-red.svg": "/intern-cards-task/static/media/heart-solid-red.bf0c6166f5ffe531dd271c4c5fa99be7.svg",
+    "static/media/delete.svg": "/intern-cards-task/static/media/delete.5bfaca79cb0cea931db86a25db7daeda.svg",
+    "static/media/filter_icon.svg": "/intern-cards-task/static/media/filter_icon.2eff774012c27a5a7f6e0f6ab498aa4a.svg",
+    "main.2377a29a.css.map": "/intern-cards-task/static/css/main.2377a29a.css.map",
+    "main.8f2ec75d.js.map": "/intern-cards-task/static/js/main.8f2ec75d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2377a29a.css",
+    "static/js/main.8f2ec75d.js"
+  ]
+}
